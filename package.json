@@ -14,7 +14,7 @@
 	"dependencies": {
         "queue-flow": "0.6.5",
         "async-cancelable-events": "0.0.3",
-        "webworker-threads": "0.4.7"
+        "multitransport-jsonrpc": "0.3.18"
     },
 	"devDependencies": {
 		"nodeunit": "*",
